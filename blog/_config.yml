@@ -103,4 +103,8 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/shuyixiao-better/shuyixiao-better.github.io.git
+  branch: main
+  token: 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
+
